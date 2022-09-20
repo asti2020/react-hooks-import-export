@@ -1,3 +1,4 @@
+
 const trees = "Aspen and Pine";
 
 function wildlife() {
@@ -9,3 +10,4 @@ function elevation() {
 }
 
 export { trees, wildlife };
+export default elevation;
